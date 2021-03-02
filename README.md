@@ -7,10 +7,10 @@ idea读书笔记插件，用于idea使用过程中添加笔记。
 
 
 
-![left-bottom-menu](E:\plugin\note-plugin\doc\left-bottom-menu.png)
+![left-bottom-menu](https://github.com/raineddown/note-plugin/blob/master/doc/left-bottom-menu.png)
 
-![use-example-1](E:\plugin\note-plugin\doc\use-example-1.jpeg)
+![use-example-1](https://github.com/raineddown/note-plugin/blob/master/doc/use-example-1.jpeg)
 
-![use-exapmle-2](E:\plugin\note-plugin\doc\use-exapmle-2.jpeg)
+![use-exapmle-2](https://github.com/raineddown/note-plugin/blob/master/doc/use-exapmle-2.jpeg)
 
-![use-interface](E:\plugin\note-plugin\doc\use-interface.jpeg)
+![use-interface](https://github.com/raineddown/note-plugin/blob/master/doc/use-interface.jpeg)
